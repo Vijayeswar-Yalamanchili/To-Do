@@ -1,3 +1,3 @@
-# To-Do
+Hi, This is repository is about TODO App.
 
-https://vijayeswar-yalamanchili.github.io/To-Do/
+To host, Please Click the link in about section.
